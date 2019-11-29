@@ -39,6 +39,10 @@ distribution of choice, but will be similar:
 *   x11proto-core-dev
 *   xscreensaver (for the `saver_xscreensaver` module)
 
+On Debian:
+
+`sudo apt-get update && sudo apt-get install apache2-utils autotools-dev binutils gcc libc6-dev libpam-dev libx11-dev libxcomposite-dev libxext-dev libxfixes-dev libxft-dev libxmuu-dev libxrandr-dev libxss-dev make mplayer  mpv pamtester  pkg-config x11proto-core-dev xscreensaver`
+
 # Installation
 
 NOTE: In these instructions, please replace SERVICE-NAME by the name of an
